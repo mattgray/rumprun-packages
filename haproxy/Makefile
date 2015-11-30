@@ -33,3 +33,4 @@ clean:
 .PHONY: distclean
 distclean: clean
 	rm -rf build
+	rm -rf dl
